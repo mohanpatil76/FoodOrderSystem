@@ -1,8 +1,7 @@
 {
-  "homepage": "http://Shreya-0999.github.io/Food_App",
+  "homepage": "https://mohanpatil76.github.io/Food_App",
   "name": "foodapp",
   "version": "0.1.0",
-  "proxy": "https://lifesaver123.herokuapp.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
@@ -60,12 +59,9 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shreya-0999/Food_App.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Shreya-0999/Food_App/issues"
-  }
+  "bugs": {}
 }
